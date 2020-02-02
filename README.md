@@ -12,7 +12,7 @@
 | P.9  |  D.8   |   无监督、分析   | 提出两个模块分别用于检测静态（停靠）和动态（变道）异常 |  有  |
 
 
-|  ID  |                            文章名                            | 链接 |
+|  ID  |                            文章名                            | 时间 |
 | :--: | :----------------------------------------------------------: | ---- |
 | P.1  | Anomaly Detection in Traffic Scenes via Spatial-Aware Motion Reconstruction | 2017 |
 | P.2  | Detection of Sudden Pedestrian Crossings for Driving Assistance Systems | 2012 |
